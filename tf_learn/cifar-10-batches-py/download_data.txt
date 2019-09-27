@@ -1,0 +1,5 @@
+Download
+
+If you're going to use this dataset, please cite the tech report at the bottom of this page. 
+Version	Size	md5sum
+CIFAR-10 python version	163 MB	c58f30108f718f92721af3b95e74349a
