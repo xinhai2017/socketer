@@ -9,5 +9,5 @@
    
 ## 原始数据是mp4格式的，需要按每一帧的画面切下照片用于训练，执行capture_images_from_video文件夹下的multipool_capture_images_from_vedio.py：
 
-``````python multipool_capture_images_from_vedio.py``````
+```python multipool_capture_images_from_vedio.py```python
     
