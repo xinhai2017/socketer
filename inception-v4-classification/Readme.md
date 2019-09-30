@@ -2,7 +2,7 @@
 
 
 ## environment：
-   '''dlib 19.16.0 '\\n'
+   '''dlib 19.16.0 \\n
    ''' Keras 2.2.4'''
    '''tenforflow-gpu 1.12.0'''
    '''opencv 4.1.1'''
