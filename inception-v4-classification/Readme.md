@@ -9,12 +9,12 @@
    
 原始数据是mp4格式的，需要按每一帧的画面切下照片用于训练，执行capture_images_from_video文件夹下的multipool_capture_images_from_vedio.py：
 
- #### ```python multipool_capture_images_from_vedio.py```
+     #### ```python multipool_capture_images_from_vedio.py```
 
 然后运行文件夹extract_face_from_images下的py文件,切除人脸，图片的大小可以自己调整，调整这一行代码即可
-cropped = img[face.rect.top()-100:face.rect.bottom()+100, face.rect.left()-100:face.rect.right()+100]：
+```cropped = img[face.rect.top()-100:face.rect.bottom()+100, face.rect.left()-100:face.rect.right()+100]```：
 
- #### ```python multipool_crop_faces_save.py ```
+     #### ```python multipool_crop_faces_save.py ```
     
 接下就是训练模型部分了，
 
